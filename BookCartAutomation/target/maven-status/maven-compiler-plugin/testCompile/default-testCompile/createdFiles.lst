@@ -1,0 +1,6 @@
+stepDefinitions\Hooks.class
+stepDefinitions\SearchSteps.class
+tests\AmazonCartTest.class
+stepDefinitions\LoginSteps.class
+stepDefinitions\AmazonSteps.class
+runners\TestRunner.class

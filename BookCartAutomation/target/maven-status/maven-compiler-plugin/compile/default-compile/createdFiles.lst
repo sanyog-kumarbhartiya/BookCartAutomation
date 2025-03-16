@@ -1,0 +1,8 @@
+base\BaseTest.class
+pages\AmazonCartPage.class
+pages\AmazonHomePage.class
+pages\LoginPage.class
+utils\DriverFactory.class
+pages\SearchPage.class
+utils\ConfigReader.class
+pages\AmazonSearchResultsPage.class
