@@ -1,4 +1,4 @@
-<!-- 1- Project Setup Instructions
+ 1- Project Setup Instructions
  Install Java & Maven (Java: Install JDK (11 or later) & Maven: Install Apache Maven)
  Check installation: java -version
  Check installation: mvn -version
@@ -26,4 +26,4 @@ Search & Add to Cart:
 Cart Verification:
      1-Simulate a scenario where the user adds five different items to the cart, 2-each with a different price (prices can be chosen at your discretion).
      3-Validate that the total cart price displayed matches the expected sum of     the  selected items.
-     4-Ensure the total cart price updates correctly when an item is added or removed. -->
+     4-Ensure the total cart price updates correctly when an item is added or removed. 
