@@ -31,3 +31,6 @@ Cart Verification:
 2-each with a different price (prices can be chosen at your discretion).
 3-Validate that the total cart price displayed matches the expected sum of the selected items.
 4-Ensure the total cart price updates correctly when an item is added or removed. 
+
+
+Cucumber Test Report URL - https://drive.google.com/file/d/1xF_SssN8ahzC3J1TgNTMieWE-9A92LOY/view
